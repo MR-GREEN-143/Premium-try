@@ -1,2 +1,0 @@
-import GFILE
-GFILE.tamim()
